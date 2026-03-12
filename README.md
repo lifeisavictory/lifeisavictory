@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**lifeisavictory/lifeisavictory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Tomáš Salamánek
 
-Here are some ideas to get you started:
+**Junior Java Developer** • Plzeň / Praha •
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Po 20 letech ve strojírenství jsem objevil úžasný svět IT. 
+
+[![GitHub lifeisavictory](https://img.shields.io/badge/GitHub-lifeisavictory-181717?style=for-the-badge&logo=github)](https://github.com/lifeisavictory)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salamanek)
+[![Email](https://img.shields.io/badge/Email-tomas@salamanek.cz-blue?style=for-the-badge&logo=gmail)](mailto:tomas@salamanek.cz)
+
+</div>
+
+## 🌐 Moje projekty
+
+### 🔗 **aplikace.salamanek.cz** (Spring Boot + React)
+- Moje první fullstack aplikace deploynutá na Railway
+- REST API s MySQL, frontend React/Bootstrap
+- [Navštivte demo](https://aplikace.salamanek.cz)
+
+### 🏠 **salamanek.cz** (osobní web)
+- Moje osobní portfolio
+- HTML/CSS/Bootstrap, mobile first
+- [Podívejte se na web](https://salamanek.cz)
+
+
+## 📚 Vzdělání & background
+- **20 let tvorby CNC obrábění** (Heidenhain, CAD/CAM, Vericut)
+- **Hyperskill Java Backend Developer** (aktuálně v běhu)
+- **ITnetwork** (BASIC a PRO kurz se zaměřením na jazyk Java)
+- **LinkedIn kurzy**
+- Střední škola: ekonomická (non-IT)
+
+## 📫 Jak mě kontaktovat
+- 💼 Hledám pozici: **Junior Java Developer**
+- 📧 Email: [tomas@salamanek.cz](mailto:tomas@salamanek.cz)
+- 🌐 Gravatar: [gravatar.com/lifeisavictory](https://gravatar.com/lifeisavictory)
+
+
+---
+*lifeisavictory | CNC → Java | 2026 | 42*
+
+
