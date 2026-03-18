@@ -27,7 +27,7 @@
 
 ## 📚 Vzdělání & background
 - **20 let tvorby CNC obrábění** (Heidenhain, CAD/CAM, Vericut)
-- **Hyperskill Java Backend Developer** (aktuálně v běhu)
+- **Hyperskill Java Backend Developer** (kurz aktuálně v běhu)
 - **ITnetwork** (BASIC a PRO kurz se zaměřením na jazyk Java)
 - **LinkedIn kurzy**
 - Střední škola: ekonomická (non-IT)
