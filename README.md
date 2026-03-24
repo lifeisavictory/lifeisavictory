@@ -34,7 +34,6 @@
 
 ## 📫 Jak mě kontaktovat
 - 📧 Email: [tomas@salamanek.cz](mailto:tomas@salamanek.cz)
-- 🌐 Gravatar: [gravatar.com/lifeisavictory](https://gravatar.com/lifeisavictory)
 
 
 ---
