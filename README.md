@@ -2,7 +2,7 @@
 
 # 👋 Tomáš Salamánek
 
-**Junior Java Developer** • Plzeň / Praha •
+• Plzeň •
 
 > Po 20 letech ve strojírenství jsem objevil úžasný svět IT. 
 
@@ -33,7 +33,6 @@
 - Střední škola: ekonomická (non-IT)
 
 ## 📫 Jak mě kontaktovat
-- 💼 Hledám pozici: **Junior Java Developer**
 - 📧 Email: [tomas@salamanek.cz](mailto:tomas@salamanek.cz)
 - 🌐 Gravatar: [gravatar.com/lifeisavictory](https://gravatar.com/lifeisavictory)
 
