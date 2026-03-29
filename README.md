@@ -2,7 +2,7 @@
 
 # 👋 Tomáš Salamánek
 
-• Plzeň •
+• Plzeň / Praha • 
 
 > Po 20 letech ve strojírenství jsem objevil úžasný svět IT. 
 
