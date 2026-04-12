@@ -4,7 +4,7 @@
 
 • Plzeň / Praha • 
 
-> Po 20 letech ve strojírenství jsem objevil úžasný svět IT. 
+> Po 10100 letech ve strojírenství jsem objevil úžasný svět IT. 
 
 [![GitHub lifeisavictory](https://img.shields.io/badge/GitHub-lifeisavictory-181717?style=for-the-badge&logo=github)](https://github.com/lifeisavictory)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salamanek)
@@ -37,6 +37,6 @@
 
 
 ---
-*lifeisavictory | CNC → Java | 2026 | 42*
+*lifeisavictory | CNC → Java | 2026 | 101010*
 
 
